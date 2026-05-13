@@ -1,6 +1,8 @@
 # ConsumoAPIRest - Android
 
 Este proyecto es una aplicación Android desarrollada en Java que consume una API REST para obtener y mostrar una lista de alumnos de la Universidad Técnica Estatal de Quevedo (UTEQ).
+![captura_consumoapi.png](app/src/main/res/drawable/captura_consumoapi.png)
+
 
 ## 🚀 Características
 
@@ -49,4 +51,4 @@ Este proyecto es una aplicación Android desarrollada en Java que consume una AP
 - `build.gradle`: Configuración de dependencias y variables de compilación.
 
 ---
-© 2024 - Software UTEQ
+© 2026 - Software UTEQ
